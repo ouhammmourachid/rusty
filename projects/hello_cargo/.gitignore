@@ -1,0 +1,20 @@
+# Ignore compiled output
+/target/
+
+# Ignore project-specific files
+Cargo.lock
+Cargo.toml.orig
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore build artifacts
+*.o
+*.a
+*.so
+*.rlib
+*.rmeta
+
+# Ignore generated documentation
+/doc/
