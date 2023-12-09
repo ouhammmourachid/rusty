@@ -1,0 +1,9 @@
+# Ignore compiled output
+/target/
+
+# Ignore project-specific IDE files
+/.vscode/
+/.idea/
+
+# Ignore cargo lock file
+Cargo.lock
